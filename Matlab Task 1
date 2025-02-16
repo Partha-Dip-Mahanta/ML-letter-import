@@ -1,0 +1,4 @@
+Task 1
+The function readtable can be used to import tabular data from a spreadsheet or text file and store the result as a table.
+data = readtable("myfile.xls");
+This code imports data from the spreadhseet myfile.xls and stores it in a table named data.
